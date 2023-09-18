@@ -1,6 +1,6 @@
 import numpy as np
 import nnfs
-from nnfs import spiral_data
+from nnfs.datasets import spiral_data
 
 np.random.seed(0)
 
