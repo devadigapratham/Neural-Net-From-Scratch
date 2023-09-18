@@ -61,7 +61,7 @@ activation1.forward(dense1.output)
 dense2.forward(X)
 activation2.forward(dense2.output)
 
-loss_function  = Loss_CategoricalCrossentcopy()
+loss_function  = Loss_CategoricalCrossEntcopy()
 loss = loss_function.calulate(activation2.output, y)
 
 print(activation2.output[:5])
