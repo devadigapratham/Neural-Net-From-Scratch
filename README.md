@@ -2,7 +2,7 @@
 
 This project demonstrates the training and evaluation of a neural network for classifying synthetic spiral data into multiple classes. It includes code for data generation, model architecture, training, hyperparameter tuning, evaluation, and visualization.
 
-## Project Files
+## Project Files : 
 
 The project is organized into the following files:
 
@@ -14,9 +14,24 @@ The project is organized into the following files:
 6. `visualize_data.py`: Contains functions for visualizing the synthetic spiral data and decision boundaries.
 7. `main.py`: Orchestrates the entire project, including data generation, model training, evaluation, and visualization.
 
-## Getting Started
+## Getting Started : 
 
 1. Clone this repository to your local machine:
 
    ```shell
    git clone https://github.com/devadigapratham/neural-network-spiral-data.git
+
+2. Navigate to project directory :
+   ```shell
+   cd neural-network-spiral-data
+
+3. Install the required Python packages:
+   ```shell
+   pip install -r requirements.txt
+
+## Usage : 
+
+* Run the main.py script to execute the entire project. 
+
+
+
