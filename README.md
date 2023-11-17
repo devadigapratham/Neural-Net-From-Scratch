@@ -19,11 +19,10 @@ The project is organized into the following files:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/devadigapratham/neural-network-spiral-data.git
-
+   git clone git@github.com:devadigapratham/Neural-Net-From-Scratch.git
 2. Navigate to project directory :
    ```shell
-   cd neural-network-spiral-data
+   cd Neural-Net-From-Scratch
 
 3. Install the required Python packages:
    ```shell
